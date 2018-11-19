@@ -1,7 +1,6 @@
 '''
 Kaihua Li
-250905563
-Assignment2
+
 '''
 
 from math import sqrt
